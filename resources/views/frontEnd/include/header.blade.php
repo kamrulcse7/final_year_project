@@ -7,10 +7,10 @@
                 <div class="col-lg-2 col-sm-3 col-5">
                     <div class="header-brand">
                         <a href="{{route('home')}}" class="logo logo-dark">
-                            <img src="{{asset('frontend/assets')}}/images/logo/logo.png" alt="Site Logo">
+                            <img src="{{asset('frontEnd/assets')}}/images/logo/logo.png" alt="Site Logo">
                         </a>
                         <a href="{{route('home')}}" class="logo logo-light">
-                            <img src="{{asset('frontend/assets')}}/images/logo/logo-light.png" alt="Site Logo">
+                            <img src="{{asset('frontEnd/assets')}}/images/logo/logo-light.png" alt="Site Logo">
                         </a>
                     </div>
                 </div>
@@ -66,7 +66,7 @@
                                 <li>
                                     <a href="{{route('category.products',$category->id)}} " class="nav-link {{count($category->subCategory) > 0 ? 'has-megamenu' : ''}}">
                                         <span class="menu-icon">
-                                            <img src="{{asset('frontend/assets')}}/images/product/categories/cat-01.png" alt="Department">
+                                            <img src="{{asset('frontEnd/assets')}}/images/product/categories/cat-01.png" alt="Department">
                                         </span>
                                         <span class="menu-text">{{$category->name}}</span>
                                     </a>
@@ -100,7 +100,7 @@
                         <button class="mobile-close-btn mobile-nav-toggler"><i class="fas fa-times"></i></button>
                         <div class="mobile-nav-brand">
                             <a href="index.html" class="logo">
-                                <img src="{{asset('frontend/assets')}}/images/logo/logo.png" alt="Site Logo">
+                                <img src="{{asset('frontEnd/assets')}}/images/logo/logo.png" alt="Site Logo">
                             </a>
                         </div>
                         <ul class="mainmenu">

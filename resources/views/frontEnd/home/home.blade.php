@@ -19,7 +19,7 @@
                                         </div>
                                     </div>
                                     <div class="main-slider-thumb">
-                                        <img src="{{asset('frontend/assets')}}/images/product/product-40.png" alt="Product">
+                                        <img src="{{asset('frontEnd/assets')}}/images/product/product-40.png" alt="Product">
                                     </div>
                                 </div>
                                 <div class="single-slide slick-slide">
@@ -31,7 +31,7 @@
                                         </div>
                                     </div>
                                     <div class="main-slider-thumb">
-                                        <img src="{{asset('frontend/assets')}}/images/product/product-46.png" alt="Product">
+                                        <img src="{{asset('frontEnd/assets')}}/images/product/product-46.png" alt="Product">
                                     </div>
                                 </div>
                                 <div class="single-slide slick-slide">
@@ -43,7 +43,7 @@
                                         </div>
                                     </div>
                                     <div class="main-slider-thumb">
-                                        <img src="{{asset('frontend/assets')}}/images/product/product-40.png" alt="Product">
+                                        <img src="{{asset('frontEnd/assets')}}/images/product/product-40.png" alt="Product">
                                     </div>
                                 </div>
                             </div>
@@ -53,7 +53,7 @@
                         <div class="slider-product-box">
                             <div class="product-thumb">
                                 <a href="single-product.html">
-                                    <img src="{{asset('frontend/assets')}}/images/product/product-41.png" alt="Product">
+                                    <img src="{{asset('frontEnd/assets')}}/images/product/product-41.png" alt="Product">
                                 </a>
                             </div>
                             <h6 class="title"><a href="single-product.html">Yantiti Leather Bags</a></h6>
@@ -72,7 +72,7 @@
                 <div class="col">
                     <div class="service-box">
                         <div class="icon">
-                            <img src="{{asset('frontend/assets')}}/images/icons/service1.png" alt="Service">
+                            <img src="{{asset('frontEnd/assets')}}/images/icons/service1.png" alt="Service">
                         </div>
                         <h6 class="title">Fast &amp; Secure Delivery</h6>
                     </div>
@@ -80,7 +80,7 @@
                 <div class="col">
                     <div class="service-box">
                         <div class="icon">
-                            <img src="{{asset('frontend/assets')}}/images/icons/service2.png" alt="Service">
+                            <img src="{{asset('frontEnd/assets')}}/images/icons/service2.png" alt="Service">
                         </div>
                         <h6 class="title">100% Guarantee On Product</h6>
                     </div>
@@ -88,7 +88,7 @@
                 <div class="col">
                     <div class="service-box">
                         <div class="icon">
-                            <img src="{{asset('frontend/assets')}}/images/icons/service3.png" alt="Service">
+                            <img src="{{asset('frontEnd/assets')}}/images/icons/service3.png" alt="Service">
                         </div>
                         <h6 class="title">24 Hour Return Policy</h6>
                     </div>
@@ -96,7 +96,7 @@
                 <div class="col">
                     <div class="service-box">
                         <div class="icon">
-                            <img src="{{asset('frontend/assets')}}/images/icons/service4.png" alt="Service">
+                            <img src="{{asset('frontEnd/assets')}}/images/icons/service4.png" alt="Service">
                         </div>
                         <h6 class="title">24 Hour Return Policy</h6>
                     </div>
@@ -104,7 +104,7 @@
                 <div class="col">
                     <div class="service-box">
                         <div class="icon">
-                            <img src="{{asset('frontend/assets')}}/images/icons/service5.png" alt="Service">
+                            <img src="{{asset('frontEnd/assets')}}/images/icons/service5.png" alt="Service">
                         </div>
                         <h6 class="title">Next Level Pro Quality</h6>
                     </div>
@@ -185,7 +185,7 @@
                     </div>
                     <div class="col-xl-7 col-lg-6">
                         <div class="poster-countdown-thumbnail">
-                            <img src="{{asset('frontend/assets')}}/images/product/poster/poster-05.png" alt="Poster Product">
+                            <img src="{{asset('frontEnd/assets')}}/images/product/poster/poster-05.png" alt="Poster Product">
                         </div>
                     </div>
                 </div>
@@ -269,7 +269,7 @@
                     </div>
                     <div class="media">
                         <div class="thumbnail">
-                            <img src="{{asset('frontend/assets')}}/images/testimonial/image-1.png" alt="testimonial image">
+                            <img src="{{asset('frontEnd/assets')}}/images/testimonial/image-1.png" alt="testimonial image">
                         </div>
                         <div class="media-body">
                             <span class="designation">Head Of Idea</span>
@@ -289,7 +289,7 @@
                     </div>
                     <div class="media">
                         <div class="thumbnail">
-                            <img src="{{asset('frontend/assets')}}/images/testimonial/image-2.png" alt="testimonial image">
+                            <img src="{{asset('frontEnd/assets')}}/images/testimonial/image-2.png" alt="testimonial image">
                         </div>
                         <div class="media-body">
                             <span class="designation">Head Of Idea</span>
@@ -309,7 +309,7 @@
                     </div>
                     <div class="media">
                         <div class="thumbnail">
-                            <img src="{{asset('frontend/assets')}}/images/testimonial/image-3.png" alt="testimonial image">
+                            <img src="{{asset('frontEnd/assets')}}/images/testimonial/image-3.png" alt="testimonial image">
                         </div>
                         <div class="media-body">
                             <span class="designation">Head Of Idea</span>
@@ -329,7 +329,7 @@
                     </div>
                     <div class="media">
                         <div class="thumbnail">
-                            <img src="{{asset('frontend/assets')}}/images/testimonial/image-2.png" alt="testimonial image">
+                            <img src="{{asset('frontEnd/assets')}}/images/testimonial/image-2.png" alt="testimonial image">
                         </div>
                         <div class="media-body">
                             <span class="designation">Head Of Idea</span>
@@ -357,7 +357,7 @@
                     <div class="axil-product product-style-two has-color-pick">
                         <div class="thumbnail">
                             <a href="single-product.html">
-                                <img data-sal="fade" data-sal-delay="100" data-sal-duration="1500" src="{{asset('frontend/assets')}}/images/product/fashion/product-14.png" alt="Product Images">
+                                <img data-sal="fade" data-sal-delay="100" data-sal-duration="1500" src="{{asset('frontEnd/assets')}}/images/product/fashion/product-14.png" alt="Product Images">
                             </a>
                             <div class="label-block label-right">
                                 <div class="product-badget">50% OFF</div>
@@ -396,7 +396,7 @@
                     <div class="axil-product product-style-two has-color-pick">
                         <div class="thumbnail">
                             <a href="single-product.html">
-                                <img data-sal="fade" data-sal-delay="200" data-sal-duration="1500" src="{{asset('frontend/assets')}}/images/product/fashion/product-15.png" alt="Product Images">
+                                <img data-sal="fade" data-sal-delay="200" data-sal-duration="1500" src="{{asset('frontEnd/assets')}}/images/product/fashion/product-15.png" alt="Product Images">
                             </a>
                             <div class="label-block label-right">
                                 <div class="product-badget">15% OFF</div>
@@ -435,7 +435,7 @@
                     <div class="axil-product product-style-two has-color-pick">
                         <div class="thumbnail">
                             <a href="single-product.html">
-                                <img data-sal="fade" data-sal-delay="300" data-sal-duration="1500" src="{{asset('frontend/assets')}}/images/product/fashion/product-4.png" alt="Product Images">
+                                <img data-sal="fade" data-sal-delay="300" data-sal-duration="1500" src="{{asset('frontEnd/assets')}}/images/product/fashion/product-4.png" alt="Product Images">
                             </a>
                             <div class="label-block label-right">
                                 <div class="product-badget">30% OFF</div>
@@ -474,7 +474,7 @@
                     <div class="axil-product product-style-two has-color-pick">
                         <div class="thumbnail">
                             <a href="single-product.html">
-                                <img data-sal="fade" data-sal-delay="400" data-sal-duration="1500" src="{{asset('frontend/assets')}}/images/product/fashion/product-5.png" alt="Product Images">
+                                <img data-sal="fade" data-sal-delay="400" data-sal-duration="1500" src="{{asset('frontEnd/assets')}}/images/product/fashion/product-5.png" alt="Product Images">
                             </a>
                             <div class="label-block label-right">
                                 <div class="product-badget">50% OFF</div>
@@ -513,7 +513,7 @@
                     <div class="axil-product product-style-two has-color-pick">
                         <div class="thumbnail">
                             <a href="single-product.html">
-                                <img data-sal="fade" data-sal-delay="100" data-sal-duration="1500" src="{{asset('frontend/assets')}}/images/product/fashion/product-10.png" alt="Product Images">
+                                <img data-sal="fade" data-sal-delay="100" data-sal-duration="1500" src="{{asset('frontEnd/assets')}}/images/product/fashion/product-10.png" alt="Product Images">
                             </a>
                             <div class="label-block label-right">
                                 <div class="product-badget">10% OFF</div>
@@ -552,7 +552,7 @@
                     <div class="axil-product product-style-two has-color-pick">
                         <div class="thumbnail">
                             <a href="single-product.html">
-                                <img data-sal="fade" data-sal-delay="200" data-sal-duration="1500" src="{{asset('frontend/assets')}}/images/product/fashion/product-11.png" alt="Product Images">
+                                <img data-sal="fade" data-sal-delay="200" data-sal-duration="1500" src="{{asset('frontEnd/assets')}}/images/product/fashion/product-11.png" alt="Product Images">
                             </a>
                             <div class="label-block label-right">
                                 <div class="product-badget">25% OFF</div>
@@ -591,7 +591,7 @@
                     <div class="axil-product product-style-two has-color-pick">
                         <div class="thumbnail">
                             <a href="single-product.html">
-                                <img data-sal="fade" data-sal-delay="300" data-sal-duration="1500" src="{{asset('frontend/assets')}}/images/product/fashion/product-12.png" alt="Product Images">
+                                <img data-sal="fade" data-sal-delay="300" data-sal-duration="1500" src="{{asset('frontEnd/assets')}}/images/product/fashion/product-12.png" alt="Product Images">
                             </a>
                             <div class="label-block label-right">
                                 <div class="product-badget">15% OFF</div>
@@ -630,7 +630,7 @@
                     <div class="axil-product product-style-two has-color-pick">
                         <div class="thumbnail">
                             <a href="single-product.html">
-                                <img data-sal="fade" data-sal-delay="400" data-sal-duration="1500" src="{{asset('frontend/assets')}}/images/product/fashion/product-13.png" alt="Product Images">
+                                <img data-sal="fade" data-sal-delay="400" data-sal-duration="1500" src="{{asset('frontEnd/assets')}}/images/product/fashion/product-13.png" alt="Product Images">
                             </a>
                             <div class="label-block label-right">
                                 <div class="product-badget">30% OFF</div>

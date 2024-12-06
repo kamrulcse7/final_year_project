@@ -11,22 +11,22 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="{{asset('frontend/assets')}}/images/favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="{{asset('frontEnd/assets')}}/images/favicon.png">
 
     <!-- CSS
     ============================================ -->
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="{{asset('frontend/assets')}}/css/vendor/bootstrap.min.css">
-    <link rel="stylesheet" href="{{asset('frontend/assets')}}/css/vendor/font-awesome.css">
-    <link rel="stylesheet" href="{{asset('frontend/assets')}}/css/vendor/flaticon/flaticon.css">
-    <link rel="stylesheet" href="{{asset('frontend/assets')}}/css/vendor/slick.css">
-    <link rel="stylesheet" href="{{asset('frontend/assets')}}/css/vendor/slick-theme.css">
-    <link rel="stylesheet" href="{{asset('frontend/assets')}}/css/vendor/jquery-ui.min.css">
-    <link rel="stylesheet" href="{{asset('frontend/assets')}}/css/vendor/sal.css">
-    <link rel="stylesheet" href="{{asset('frontend/assets')}}/css/vendor/magnific-popup.css">
-    <link rel="stylesheet" href="{{asset('frontend/assets')}}/css/vendor/base.css">
-    <link rel="stylesheet" href="{{asset('frontend/assets')}}/css/style.min.css">
+    <link rel="stylesheet" href="{{asset('frontEnd/assets')}}/css/vendor/bootstrap.min.css">
+    <link rel="stylesheet" href="{{asset('frontEnd/assets')}}/css/vendor/font-awesome.css">
+    <link rel="stylesheet" href="{{asset('frontEnd/assets')}}/css/vendor/flaticon/flaticon.css">
+    <link rel="stylesheet" href="{{asset('frontEnd/assets')}}/css/vendor/slick.css">
+    <link rel="stylesheet" href="{{asset('frontEnd/assets')}}/css/vendor/slick-theme.css">
+    <link rel="stylesheet" href="{{asset('frontEnd/assets')}}/css/vendor/jquery-ui.min.css">
+    <link rel="stylesheet" href="{{asset('frontEnd/assets')}}/css/vendor/sal.css">
+    <link rel="stylesheet" href="{{asset('frontEnd/assets')}}/css/vendor/magnific-popup.css">
+    <link rel="stylesheet" href="{{asset('frontEnd/assets')}}/css/vendor/base.css">
+    <link rel="stylesheet" href="{{asset('frontEnd/assets')}}/css/style.min.css">
 
 </head>
 
@@ -59,34 +59,34 @@
                                     <div class="col-lg-10 order-lg-2">
                                         <div class="single-product-thumbnail product-large-thumbnail axil-product thumbnail-badge zoom-gallery">
                                             <div class="thumbnail">
-                                                <img src="{{asset('frontend/assets')}}/images/product/product-big-01.png" alt="Product Images">
+                                                <img src="{{asset('frontEnd/assets')}}/images/product/product-big-01.png" alt="Product Images">
                                                 <div class="label-block label-right">
                                                     <div class="product-badget">20% OFF</div>
                                                 </div>
                                                 <div class="product-quick-view position-view">
-                                                    <a href="{{asset('frontend/assets')}}/images/product/product-big-01.png" class="popup-zoom">
+                                                    <a href="{{asset('frontEnd/assets')}}/images/product/product-big-01.png" class="popup-zoom">
                                                         <i class="far fa-search-plus"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="thumbnail">
-                                                <img src="{{asset('frontend/assets')}}/images/product/product-big-02.png" alt="Product Images">
+                                                <img src="{{asset('frontEnd/assets')}}/images/product/product-big-02.png" alt="Product Images">
                                                 <div class="label-block label-right">
                                                     <div class="product-badget">20% OFF</div>
                                                 </div>
                                                 <div class="product-quick-view position-view">
-                                                    <a href="{{asset('frontend/assets')}}/images/product/product-big-02.png" class="popup-zoom">
+                                                    <a href="{{asset('frontEnd/assets')}}/images/product/product-big-02.png" class="popup-zoom">
                                                         <i class="far fa-search-plus"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="thumbnail">
-                                                <img src="{{asset('frontend/assets')}}/images/product/product-big-03.png" alt="Product Images">
+                                                <img src="{{asset('frontEnd/assets')}}/images/product/product-big-03.png" alt="Product Images">
                                                 <div class="label-block label-right">
                                                     <div class="product-badget">20% OFF</div>
                                                 </div>
                                                 <div class="product-quick-view position-view">
-                                                    <a href="{{asset('frontend/assets')}}/images/product/product-big-03.png" class="popup-zoom">
+                                                    <a href="{{asset('frontEnd/assets')}}/images/product/product-big-03.png" class="popup-zoom">
                                                         <i class="far fa-search-plus"></i>
                                                     </a>
                                                 </div>
@@ -96,13 +96,13 @@
                                     <div class="col-lg-2 order-lg-1">
                                         <div class="product-small-thumb small-thumb-wrapper">
                                             <div class="small-thumb-img">
-                                                <img src="{{asset('frontend/assets')}}/images/product/product-thumb/thumb-08.png" alt="thumb image">
+                                                <img src="{{asset('frontEnd/assets')}}/images/product/product-thumb/thumb-08.png" alt="thumb image">
                                             </div>
                                             <div class="small-thumb-img">
-                                                <img src="{{asset('frontend/assets')}}/images/product/product-thumb/thumb-07.png" alt="thumb image">
+                                                <img src="{{asset('frontEnd/assets')}}/images/product/product-thumb/thumb-07.png" alt="thumb image">
                                             </div>
                                             <div class="small-thumb-img">
-                                                <img src="{{asset('frontend/assets')}}/images/product/product-thumb/thumb-09.png" alt="thumb image">
+                                                <img src="{{asset('frontEnd/assets')}}/images/product/product-thumb/thumb-09.png" alt="thumb image">
                                             </div>
                                         </div>
                                     </div>
@@ -113,7 +113,7 @@
                                     <div class="inner">
                                         <div class="product-rating">
                                             <div class="star-rating">
-                                                <img src="{{asset('frontend/assets')}}/images/icons/rate.png" alt="Rate Images">
+                                                <img src="{{asset('frontEnd/assets')}}/images/icons/rate.png" alt="Rate Images">
                                             </div>
                                             <div class="review-link">
                                                 <a href="#">(<span>1</span> customer reviews)</a>
@@ -208,7 +208,7 @@
                     <div class="axil-product-list">
                         <div class="thumbnail">
                             <a href="single-product.html">
-                                <img src="{{asset('frontend/assets')}}/images/product/electric/product-09.png" alt="Yantiti Leather Bags">
+                                <img src="{{asset('frontEnd/assets')}}/images/product/electric/product-09.png" alt="Yantiti Leather Bags">
                             </a>
                         </div>
                         <div class="product-content">
@@ -236,7 +236,7 @@
                     <div class="axil-product-list">
                         <div class="thumbnail">
                             <a href="single-product.html">
-                                <img src="{{asset('frontend/assets')}}/images/product/electric/product-09.png" alt="Yantiti Leather Bags">
+                                <img src="{{asset('frontEnd/assets')}}/images/product/electric/product-09.png" alt="Yantiti Leather Bags">
                             </a>
                         </div>
                         <div class="product-content">
@@ -329,27 +329,27 @@
     <!-- JS
 ============================================ -->
     <!-- Modernizer JS -->
-    <script src="{{asset('frontend/assets')}}/js/vendor/modernizr.min.js"></script>
+    <script src="{{asset('frontEnd/assets')}}/js/vendor/modernizr.min.js"></script>
     <!-- jQuery JS -->
-    <script src="{{asset('frontend/assets')}}/js/vendor/jquery.js"></script>
+    <script src="{{asset('frontEnd/assets')}}/js/vendor/jquery.js"></script>
     <!-- Bootstrap JS -->
-    <script src="{{asset('frontend/assets')}}/js/vendor/popper.min.js"></script>
-    <script src="{{asset('frontend/assets')}}/js/vendor/bootstrap.min.js"></script>
-    <script src="{{asset('frontend/assets')}}/js/vendor/slick.min.js"></script>
-    <script src="{{asset('frontend/assets')}}/js/vendor/js.cookie.js"></script>
-    <!-- <script src="{{asset('frontend/assets')}}/js/vendor/jquery.style.switcher.js"></script> -->
-    <script src="{{asset('frontend/assets')}}/js/vendor/jquery-ui.min.js"></script>
-    <script src="{{asset('frontend/assets')}}/js/vendor/jquery.ui.touch-punch.min.js"></script>
-    <script src="{{asset('frontend/assets')}}/js/vendor/jquery.countdown.min.js"></script>
-    <script src="{{asset('frontend/assets')}}/js/vendor/sal.js"></script>
-    <script src="{{asset('frontend/assets')}}/js/vendor/jquery.magnific-popup.min.js"></script>
-    <script src="{{asset('frontend/assets')}}/js/vendor/imagesloaded.pkgd.min.js"></script>
-    <script src="{{asset('frontend/assets')}}/js/vendor/isotope.pkgd.min.js"></script>
-    <script src="{{asset('frontend/assets')}}/js/vendor/counterup.js"></script>
-    <script src="{{asset('frontend/assets')}}/js/vendor/waypoints.min.js"></script>
+    <script src="{{asset('frontEnd/assets')}}/js/vendor/popper.min.js"></script>
+    <script src="{{asset('frontEnd/assets')}}/js/vendor/bootstrap.min.js"></script>
+    <script src="{{asset('frontEnd/assets')}}/js/vendor/slick.min.js"></script>
+    <script src="{{asset('frontEnd/assets')}}/js/vendor/js.cookie.js"></script>
+    <!-- <script src="{{asset('frontEnd/assets')}}/js/vendor/jquery.style.switcher.js"></script> -->
+    <script src="{{asset('frontEnd/assets')}}/js/vendor/jquery-ui.min.js"></script>
+    <script src="{{asset('frontEnd/assets')}}/js/vendor/jquery.ui.touch-punch.min.js"></script>
+    <script src="{{asset('frontEnd/assets')}}/js/vendor/jquery.countdown.min.js"></script>
+    <script src="{{asset('frontEnd/assets')}}/js/vendor/sal.js"></script>
+    <script src="{{asset('frontEnd/assets')}}/js/vendor/jquery.magnific-popup.min.js"></script>
+    <script src="{{asset('frontEnd/assets')}}/js/vendor/imagesloaded.pkgd.min.js"></script>
+    <script src="{{asset('frontEnd/assets')}}/js/vendor/isotope.pkgd.min.js"></script>
+    <script src="{{asset('frontEnd/assets')}}/js/vendor/counterup.js"></script>
+    <script src="{{asset('frontEnd/assets')}}/js/vendor/waypoints.min.js"></script>
 
     <!-- Main JS -->
-    <script src="{{asset('frontend/assets')}}/js/main.js"></script>
+    <script src="{{asset('frontEnd/assets')}}/js/main.js"></script>
 
     <script>
         @if(Request::is('/'))

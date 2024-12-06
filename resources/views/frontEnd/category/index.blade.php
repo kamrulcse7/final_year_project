@@ -21,7 +21,7 @@
                 <div class="col-lg-6 col-md-4">
                     <div class="inner">
                         <div class="bradcrumb-thumb">
-                            <img src="{{asset('frontend/assets')}}/images/product/product-45.png" alt="Image">
+                            <img src="{{asset('frontEnd/assets')}}/images/product/product-45.png" alt="Image">
                         </div>
                     </div>
                 </div>

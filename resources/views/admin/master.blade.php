@@ -14,7 +14,7 @@
     <!-- TITLE -->
     <title>Dashboard</title>
     <!-- FAVICON -->
-    <link rel="shortcut icon" type="image/x-icon" href="{{asset('frontend/assets')}}/images/favicon.png" />
+    <link rel="shortcut icon" type="image/x-icon" href="{{asset('frontEnd/assets')}}/images/favicon.png" />
 
     <!-- BOOTSTRAP CSS -->
     <link id="style" href="{{asset('admin/assets')}}/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" />

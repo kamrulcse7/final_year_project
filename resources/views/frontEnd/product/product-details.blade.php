@@ -158,19 +158,19 @@
                                     <ul class="pro-des-features">
                                         <li class="single-features">
                                             <div class="icon">
-                                                <img src="{{asset('frontend/assets')}}/images/product/product-thumb/icon-3.png" alt="icon">
+                                                <img src="{{asset('frontEnd/assets')}}/images/product/product-thumb/icon-3.png" alt="icon">
                                             </div>
                                             Easy Returns
                                         </li>
                                         <li class="single-features">
                                             <div class="icon">
-                                                <img src="{{asset('frontend/assets')}}/images/product/product-thumb/icon-2.png" alt="icon">
+                                                <img src="{{asset('frontEnd/assets')}}/images/product/product-thumb/icon-2.png" alt="icon">
                                             </div>
                                             Quality Service
                                         </li>
                                         <li class="single-features">
                                             <div class="icon">
-                                                <img src="{{asset('frontend/assets')}}/images/product/product-thumb/icon-1.png" alt="icon">
+                                                <img src="{{asset('frontEnd/assets')}}/images/product/product-thumb/icon-1.png" alt="icon">
                                             </div>
                                             Original Product
                                         </li>
@@ -194,7 +194,7 @@
                                                 <div class="comment-body">
                                                     <div class="single-comment">
                                                         <div class="comment-img">
-                                                            <img src="{{asset('frontend/assets')}}/images/blog/author-image-4.png" alt="Author Images">
+                                                            <img src="{{asset('frontEnd/assets')}}/images/blog/author-image-4.png" alt="Author Images">
                                                         </div>
                                                         <div class="comment-inner">
                                                             <h6 class="commenter">
@@ -225,7 +225,7 @@
                                                 <div class="comment-body">
                                                     <div class="single-comment">
                                                         <div class="comment-img">
-                                                            <img src="{{asset('frontend/assets')}}/images/blog/author-image-4.png" alt="Author Images">
+                                                            <img src="{{asset('frontEnd/assets')}}/images/blog/author-image-4.png" alt="Author Images">
                                                         </div>
                                                         <div class="comment-inner">
                                                             <h6 class="commenter">
@@ -256,7 +256,7 @@
                                                 <div class="comment-body">
                                                     <div class="single-comment">
                                                         <div class="comment-img">
-                                                            <img src="{{asset('frontend/assets')}}/images/blog/author-image-5.png" alt="Author Images">
+                                                            <img src="{{asset('frontEnd/assets')}}/images/blog/author-image-5.png" alt="Author Images">
                                                         </div>
                                                         <div class="comment-inner">
                                                             <h6 class="commenter">
