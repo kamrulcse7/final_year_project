@@ -36,7 +36,7 @@
         <div class="signin-header">
             <div class="row align-items-center">
                 <div class="col-md-6">
-                    <a href="index.html" class="site-logo"><img src="{{asset('frontEnd/assets')}}/images/logo/logo.png" alt="logo"></a>
+                    <a href="{{route('home')}}" class="site-logo"><img src="{{asset('frontEnd/assets')}}/images/logo/logo.png" alt="logo"></a>
                 </div>
                 <div class="col-md-6">
                     <div class="singin-header-btn">

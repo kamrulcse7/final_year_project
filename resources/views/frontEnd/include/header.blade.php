@@ -99,7 +99,7 @@
                     <nav class="mainmenu-nav">
                         <button class="mobile-close-btn mobile-nav-toggler"><i class="fas fa-times"></i></button>
                         <div class="mobile-nav-brand">
-                            <a href="index.html" class="logo">
+                            <a href="{{route('home')}}" class="logo">
                                 <img src="{{asset('frontEnd/assets')}}/images/logo/logo.png" alt="Site Logo">
                             </a>
                         </div>

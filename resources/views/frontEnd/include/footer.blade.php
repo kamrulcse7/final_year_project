@@ -59,7 +59,7 @@
                     <div class="axil-footer-widget">
                         <h5 class="widget-title">Support</h5>
                         <!-- <div class="logo mb--30">
-                        <a href="index.html">
+                        <a href="{{route('home')}}">
                             <img class="light-logo" src="{{asset('frontEnd/assets')}}/images/logo/logo.png" alt="Logo Images">
                         </a>
                     </div> -->
