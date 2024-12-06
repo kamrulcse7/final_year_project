@@ -74,9 +74,13 @@ class AdminOrderController extends Controller
         return $pdf->stream($id.'-invoice.pdf'); //
     }
 
-    public function delete($id)
-    {
-        return $id;
+    public function delete(Order $id)
+    {   
+        $id->delete();
+        return back()->with('message', 'Order deleted successfully.');
     }
+
+    
+
 
 }

@@ -17,6 +17,7 @@ class EshopController extends Controller
         return view('frontEnd.home.home', [
             'new_arrival_products' => Product::where('featured_status',1)->get(),
             'explore_products' => Product::where('featured_status',0)->get(),
+            'product' => Product::all(),
         ]);
     }
     public function products(){
@@ -27,7 +28,8 @@ class EshopController extends Controller
     public function productDetails($id){
         return view('frontEnd.product.product-details',[
             'product' => Product::find($id),
-            'othersImage' => OthersImage::where('product_id',$id)->get()
+            'othersImage' => OthersImage::where('product_id',$id)->get(),
+            'products'=>Product::all(),
         ]);
     }
 

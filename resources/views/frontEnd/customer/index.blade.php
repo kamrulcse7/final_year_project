@@ -12,12 +12,9 @@
             <div class="axil-dashboard-warp">
                 <div class="axil-dashboard-author">
                     <div class="media">
-                        <div class="thumbnail">
-                            <img src="assets/images/product/author1.png" alt="Hello Annie">
-                        </div>
                         <div class="media-body">
-                            <h5 class="title mb-0">Hello Annie</h5>
-                            <span class="joining-date">eTrade Member Since Sep 2020</span>
+                            <h5 class="title mb-0">Hello {{Session::get('customer_name')}}</h5>
+                            <span class="joining-date">eTrade Member Since Sep 2024</span>
                         </div>
                     </div>
                 </div>

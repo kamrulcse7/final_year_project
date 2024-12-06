@@ -64,13 +64,9 @@
                         </a>
                     </div> -->
                         <div class="inner">
-                            <p>685 Market Street, <br>
-                            Las Vegas, LA 95820, <br>
-                            United States.
-                            </p>
                             <ul class="support-list-item">
                                 <li><a href="mailto:example@domain.com"><i class="fal fa-envelope-open"></i> example@domain.com</a></li>
-                                <li><a href="tel:(+01)850-315-5862"><i class="fal fa-phone-alt"></i> (+01) 850-315-5862</a></li>
+                                <li><a href="tel:(+01)850-315-5862"><i class="fal fa-phone-alt"></i> +880 111-222-3333</a></li>
                                 <!-- <li><i class="fal fa-map-marker-alt"></i> 685 Market Street,  <br> Las Vegas, LA 95820, <br> United States.</li> -->
                             </ul>
                         </div>
@@ -85,9 +81,9 @@
                             <ul>
                                 <li><a href="my-account.html">My Account</a></li>
                                 <li><a href="sign-up.html">Login / Register</a></li>
-                                <li><a href="cart.html">Cart</a></li>
+                                <!-- <li><a href="cart.html">Cart</a></li>
                                 <li><a href="wishlist.html">Wishlist</a></li>
-                                <li><a href="shop.html">Shop</a></li>
+                                <li><a href="shop.html">Shop</a></li> -->
                             </ul>
                         </div>
                     </div>
@@ -101,9 +97,7 @@
                             <ul>
                                 <li><a href="privacy-policy.html">Privacy Policy</a></li>
                                 <li><a href="terms-of-service.html">Terms Of Use</a></li>
-                                <li><a href="#">FAQ</a></li>
-                                <li><a href="contact.html">Contact</a></li>
-                                <li><a href="contact.html">Contact</a></li>
+
                             </ul>
                         </div>
                     </div>
@@ -114,11 +108,10 @@
                     <div class="axil-footer-widget">
                         <h5 class="widget-title">Download App</h5>
                         <div class="inner">
-                            <span>Save $3 With App & New User only</span>
                             <div class="download-btn-group">
-                                <div class="qr-code">
+                                <!-- <div class="qr-code">
                                     <img src="{{asset('frontend/assets')}}/images/others/qr.png" alt="Axilthemes">
-                                </div>
+                                </div> -->
                                 <div class="app-link">
                                     <a href="#">
                                         <img src="{{asset('frontend/assets')}}/images/others/app-store.png" alt="App Store">
@@ -146,13 +139,12 @@
                         <a href="#"><i class="fab fa-instagram"></i></a>
                         <a href="#"><i class="fab fa-twitter"></i></a>
                         <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                        <a href="#"><i class="fab fa-discord"></i></a>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-12">
                     <div class="copyright-left d-flex flex-wrap justify-content-center">
                         <ul class="quick-link">
-                            <li>© 2023. All rights reserved by <a target="_blank" href="https://axilthemes.com/">Axilthemes</a>.</li>
+                            <li>© 2024. All rights reserved by <a target="_blank" href="https://axilthemes.com/">Team87</a>.</li>
                         </ul>
                     </div>
                 </div>
@@ -160,7 +152,7 @@
                     <div class="copyright-right d-flex flex-wrap justify-content-xl-end justify-content-center align-items-center">
                         <span class="card-text">Accept For</span>
                         <ul class="payment-icons-bottom quick-link">
-                            <li><img src="{{asset('frontend/assets')}}/images/icons/cart/cart-1.png" alt="paypal cart"></li>
+                            <!-- <li><img src="{{asset('frontend/assets')}}/images/icons/cart/cart-1.png" alt="paypal cart"></li> -->
                             <li><img src="{{asset('frontend/assets')}}/images/icons/cart/cart-2.png" alt="paypal cart"></li>
                             <li><img src="{{asset('frontend/assets')}}/images/icons/cart/cart-5.png" alt="paypal cart"></li>
                         </ul>

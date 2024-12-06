@@ -27,6 +27,7 @@
                                 <h3 class="card-title">All Order Information</h3>
                             </div>
                             <div class="card-body">
+                                <p class="text-success">{{session('message')}}</p>
                                 <div class="table-responsive">
                                     <table class="table table-bordered text-nowrap border-bottom" id="basic-datatable">
                                         <thead>

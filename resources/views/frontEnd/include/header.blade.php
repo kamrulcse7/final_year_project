@@ -1,14 +1,5 @@
 <!-- Start Header -->
 <header class="header axil-header header-style-2">
-    <div class="header-top-campaign">
-        <div class="container position-relative">
-            <div class="campaign-content">
-                <div class="campaign-countdown"></div>
-                <p>Open Doors To A World Of Fashion Get <a href="#">Get Your Offer</a></p>
-            </div>
-        </div>
-        <button class="remove-campaign"><i class="fal fa-times"></i></button>
-    </div>
     <!-- Start Header Top Area  -->
     <div class="axil-header-top">
         <div class="container">
@@ -31,7 +22,7 @@
                             </button>
                             <input type="search" class="placeholder product-search-input" name="search2" id="search2" value="" maxlength="128" placeholder="What are you looking for...." autocomplete="off">
                         </div>
-                        <div class="dropdown">
+                        <!-- <div class="dropdown">
                             <button class="dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
                                 USD
                             </button>
@@ -50,7 +41,7 @@
                                 <li><a class="dropdown-item" href="#">ARB</a></li>
                                 <li><a class="dropdown-item" href="#">SPN</a></li>
                             </ul>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -113,7 +104,7 @@
                             </a>
                         </div>
                         <ul class="mainmenu">
-                            <li class="menu-item-has-children">
+                            <!-- <li class="menu-item-has-children">
                                 <a href="#">Home</a>
                                 <ul class="axil-submenu">
                                     <li><a href="index-1.html">Home - Electronics</a></li>
@@ -124,9 +115,9 @@
                                     <li><a href="index-7.html">Home - Multipurpose</a></li>
                                     <li><a href="https://new.axilthemes.com/demo/template/etrade-rtl/">RTL Version</a></li>
                                 </ul>
-                            </li>
+                            </li> -->
                             <li class="menu-item-has-children">
-                                <a href="#">Shop</a>
+                            
                                 <ul class="axil-submenu">
                                     <li><a href="shop-sidebar.html">Shop With Sidebar</a></li>
                                     <li><a href="shop.html">Shop no Sidebar</a></li>
@@ -139,7 +130,7 @@
                                     <li><a href="single-product-7.html">Product Variation 7</a></li>
                                 </ul>
                             </li>
-                            <li class="menu-item-has-children">
+                            <!-- <li class="menu-item-has-children">
                                 <a href="#">Pages</a>
                                 <ul class="axil-submenu">
                                     <li><a href="wishlist.html">Wishlist</a></li>
@@ -155,8 +146,8 @@
                                     <li><a href="404.html">404 Error</a></li>
                                     <li><a href="typography.html">Typography</a></li>
                                 </ul>
-                            </li>
-                            <li><a href="about-us.html">About</a></li>
+                            </li> -->
+                            <!-- <li><a href="about-us.html">About</a></li>
                             <li class="menu-item-has-children">
                                 <a href="#">Blog</a>
                                 <ul class="axil-submenu">
@@ -168,8 +159,8 @@
                                     <li><a href="blog-audio.html">Audio Post</a></li>
                                     <li><a href="blog-quote.html">Quote Post</a></li>
                                 </ul>
-                            </li>
-                            <li><a href="contact.html">Contact</a></li>
+                            </li> -->
+                            <!-- <li><a href="contact.html">Contact</a></li> -->
                         </ul>
                     </nav>
                     <!-- End Mainmanu Nav -->
@@ -181,11 +172,11 @@
                                 <i class="flaticon-magnifying-glass"></i>
                             </a>
                         </li>
-                        <li class="wishlist">
+                        <!-- <li class="wishlist">
                             <a href="wishlist.html">
                                 <i class="flaticon-heart"></i>
                             </a>
-                        </li>
+                        </li> -->
                         <li class="shopping-cart">
                             <a href="#" class="cart-dropdown-btn">
                                 <span class="cart-count">{{count(Cart::content())}}</span>
