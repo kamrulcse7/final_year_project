@@ -25,10 +25,10 @@
             axilInit.priceRangeSlider();
             axilInit.quantityRanger();
             axilInit.axilSlickActivation();
-            axilInit.countdownInit('.coming-countdown', '2023/10/01');
-            axilInit.campaignCountdown('.campaign-countdown', '2023/10/01');
-            axilInit.countdownInit('.poster-countdown', '2023/06/01');
-            axilInit.countdownInit('.sale-countdown', '2023/10/31');
+            axilInit.countdownInit('.coming-countdown', '2025/10/01');
+            axilInit.campaignCountdown('.campaign-countdown', '2025/10/01');
+            axilInit.countdownInit('.poster-countdown', '2025/06/01');
+            axilInit.countdownInit('.sale-countdown', '2025/10/31');
             axilInit.sideOffcanvasToggle('.cart-dropdown-btn', '#cart-dropdown');
             axilInit.sideOffcanvasToggle('.mobile-nav-toggler', '.header-main-nav');
             axilInit.sideOffcanvasToggle('.department-side-menu', '.department-nav-menu');

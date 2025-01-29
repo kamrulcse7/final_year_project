@@ -44,7 +44,7 @@ class ProductController extends Controller
     public function store(Request $request)
     {
         $this->validate($request,[
-            'name' => 'required|unique:products,name|regex:/(^([a-zA-z- ]+)(\d+)?$)/u',
+            'name' => 'required',
             'category_id' => 'required',
             'sub_category_id' => 'required',
             'brand_id' => 'required',
@@ -108,7 +108,7 @@ class ProductController extends Controller
     public function update(Request $request, Product $product)
     {
         $this->validate($request,[
-            'name' => 'required|regex:/(^([a-zA-z- ]+)(\d+)?$)/u',
+            'name' => 'required',
             'category_id' => 'required',
             'sub_category_id' => 'required',
             'brand_id' => 'required',

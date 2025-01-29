@@ -77,7 +77,7 @@
                                     <li><i class="fal fa-check"></i>Free delivery available</li>
                                     <li><i class="fal fa-check"></i>Sales 30% Off Use Code: MOTIVE30</li>
                                 </ul>
-                                <p class="description">In ornare lorem ut est dapibus, ut tincidunt nisi pretium. Integer ante est, elementum eget magna. Pellentesque sagittis dictum libero, eu dignissim tellus.</p>
+                                <p class="description">{{$product->short_description}}</p>
 
                                 <!-- <div class="product-variations-wrapper">
                                     <div class="product-variation">

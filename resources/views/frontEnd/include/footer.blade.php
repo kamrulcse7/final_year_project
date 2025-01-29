@@ -65,7 +65,7 @@
                     </div> -->
                         <div class="inner">
                             <ul class="support-list-item">
-                                <li><a href="mailto:example@domain.com"><i class="fal fa-envelope-open"></i> example@domain.com</a></li>
+                                <li><a href="mailto:example@domain.com"><i class="fal fa-envelope-open"></i> info@e-trade.com</a></li>
                                 <li><a href="tel:(+01)850-315-5862"><i class="fal fa-phone-alt"></i> +880 111-222-3333</a></li>
                                 <!-- <li><i class="fal fa-map-marker-alt"></i> 685 Market Street,  <br> Las Vegas, LA 95820, <br> United States.</li> -->
                             </ul>
